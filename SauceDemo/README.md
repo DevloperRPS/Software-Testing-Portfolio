@@ -34,7 +34,7 @@ Each section represents a different stage of testing process.
 - Bug Reports
 - Screenshots
 - [Test Summary](Test-Summary.md)
-- Test Reports
+- [Test Reports](Test-Reports.md)
 
 ## Testing Environment
 Test is performed using a standard desktop environment to ensure consistent and reliable observations.
