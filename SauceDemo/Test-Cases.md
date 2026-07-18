@@ -33,5 +33,7 @@ The table below showcases multiple Test-Cases and validates core functionalities
 ## Conclusion
 
 Based on the executed test cases, all tested functionalities of the SauceDemo application behaved as expected within the defined testing scope. 
+
 No functional defects were identified during this testing cycle, indicating that the application's core features are stable and perform reliably under the tested conditions. 
+
 Further testing across different environments and scenarios may reveal additional observations beyond the scope of this project.
