@@ -1,17 +1,19 @@
 # Test Cases
 
-This document contains the manual test cases executed for the **SauceDemo** web application. 
+This document contains the manual test cases executed for the [**SauceDemo**](https://www.saucedemo.com/) web application. 
 
 Each test case is designed to validate a specific feature, verify the expected functionality, and ensure that the application behaves correctly under different user scenarios.
 
 ## Objective
+<img width="1907" height="1044" alt="saucedemo-website-login-page-screenshot-for-software-testing-assesment" src="https://github.com/user-attachments/assets/0693e919-439d-49ac-a5ef-4d740f6115b7" />
+
 The objective of these test cases is to identify functional issues, validate user workflows, and maintain software quality through systematic testing. 
 
 The execution status of each test case is recorded based on the observed results during testing.
 
 
 ## Test Cases Table
-The table below showcases multiple Test-Cases and validates core functionalities of the **SauceDemo.**
+The table below showcases multiple Test-Cases and validates core functionalities of the [**SauceDemo.**](https://www.saucedemo.com/)
 | Test Case ID | Module | Test Scenario | Preconditions | Test Steps | Expected Result | Status |
 |--------------|--------|---------------|---------------|------------|-----------------|--------|
 | TC-001 | Login | Login with valid credentials | User is on login page | Enter valid username and password, then click **Login** | User is redirected to the Products page | Pass |
@@ -32,7 +34,7 @@ The table below showcases multiple Test-Cases and validates core functionalities
 
 ## Conclusion
 
-Based on the executed test cases, all tested functionalities of the SauceDemo application behaved as expected within the defined testing scope. 
+Based on the executed test cases, all tested functionalities of the [**SauceDemo**](https://www.saucedemo.com/) application behaved as expected within the defined testing scope. 
 
 No functional defects were identified during this testing cycle, indicating that the application's core features are stable and perform reliably under the tested conditions. 
 
