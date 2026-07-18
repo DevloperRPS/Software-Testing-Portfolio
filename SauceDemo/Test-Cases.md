@@ -10,7 +10,7 @@ The objective of these test cases is to identify functional issues, validate use
 The execution status of each test case is recorded based on the observed results during testing.
 
 
-## Test Case Summary
+## Test Cases Table
 The table below showcases multiple Test-Cases and validates core functionalities of the **SauceDemo.**
 | Test Case ID | Module | Test Scenario | Preconditions | Test Steps | Expected Result | Status |
 |--------------|--------|---------------|---------------|------------|-----------------|--------|
