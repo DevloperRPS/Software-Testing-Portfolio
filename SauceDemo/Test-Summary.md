@@ -11,7 +11,7 @@ The objective of this testing cycle was to verify the core functionality of the 
 
 Identify any functional defects, and evaluate the application's stability through systematic manual testing.
 ## Testing Scope
-
+<img width="1908" height="864" alt="saucedemo-website-navigation-and-cart-tab-screenshot-for-software-testing-assesment" src="https://github.com/user-attachments/assets/7f1465bd-389b-4477-a52d-c43a353ecdef" />
 The following modules were included in the testing process:
 
 - Login & Authentication
@@ -22,9 +22,10 @@ The following modules were included in the testing process:
 - Logout Functionality
 
 ## Test Execution Summary
+<img width="1909" height="1043" alt="saucedemo-website-login-page-showing-error-message-for-loggin-attempt-without-username" src="https://github.com/user-attachments/assets/a7dd7d82-82f6-4d7e-89f5-ca24077421a6" />
 
 | Metric | Result |
-|---------|--------|
+|---------|-------------------------------------------------------|
 | Application Name | SauceDemo |
 | Testing Type | Manual Functional Testing |
 | Total Test Cases | 15 |
