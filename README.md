@@ -36,5 +36,7 @@ More tools will be added as I continue learning automation and advanced QA techn
 - Markdown
 - Browser Developer Tools
 - SQL
-- Postman
+- Google PageSpeed Insights
+- WAVE Accessibility
+- Security Headers
 
