@@ -63,7 +63,7 @@ The project focuses on the following testing approaches:
 
 The following tools were used during the testing process:
 
-- Google Chrome
+- Mozilla Firefox
 - Browser Developer Tools
 - Google PageSpeed Insights
 - WAVE Accessibility Evaluation Tool
