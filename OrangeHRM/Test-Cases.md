@@ -72,7 +72,7 @@ During exploratory testing, one temporary loading issue was observed in the Leav
 
 During the testing cycle, a few application behaviors requiring further investigation were identified. Detailed information, reproduction steps, and supporting evidence have been documented separately in the corresponding bug reports.
 
-- Employee profile pictures did not load correctly in the **Directory** module. *(Refer: BUG-001)*
+- Employee profile pictures did not load correctly in the **Directory** module. [*(Refer: BUG-001)*](BUG-001.md)
 - The **Upgrade** section did not display pricing information after selection. *(Refer: BUG-002)*
 - Minor delays were observed while interacting with certain Call-to-Action (CTA) elements. *(Refer: BUG-003)*
 - Occasional inconsistencies were observed while entering text in input fields, where characters were unexpectedly removed. *(Refer: BUG-004)*
