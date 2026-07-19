@@ -57,7 +57,9 @@ The manual testing cycle successfully evaluated the core functionalities of the 
 
 The majority of the executed test cases produced the expected results, demonstrating that the application is functionally stable across the tested modules.
 
-During the testing process, **four potential software defects** were identified and documented as individual bug reports with detailed reproduction steps, supporting evidence, severity, and recommendations. These findings highlight the importance of systematic testing in identifying areas for functional and usability improvements.
+During the testing process, **four potential software defects** were identified and documented as individual bug reports with detailed reproduction steps, supporting evidence, severity, and recommendations. 
+
+These findings highlight the importance of systematic testing in identifying areas for functional and usability improvements.
 
 Overall, this testing project demonstrated the complete Software Testing Life Cycle (STLC), including test planning, test case design, execution, defect reporting, and test documentation. 
 
