@@ -1,4 +1,4 @@
-# SauceDemo
+# SauceDemo Manual Testing Project
 
 Welcome to my **SauceDemo** Manual Testing Project.
 
