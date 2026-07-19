@@ -60,29 +60,29 @@ During exploratory testing, one temporary loading issue was observed in the Leav
 | TC-016 | UI | Verify page responsiveness | Layout remains consistent | Layout consistent | Pass |
 | TC-017 | UI | Verify buttons and links | All controls respond | Functional with slight delay in some CTA actions | Observation |
 | TC-018 | Forms | Enter employee details | Input accepted correctly | Characters occasionally disappeared while typing | Observation |
-| TC-019 | Dashboard | Verify widgets | Widgets displayed correctly | Working correctly | Pass |
+| TC-019 | Directory | View employee profile | Employee profile and profile picture should load correctly | Employee profile picture failed to load consistently | Fail |
 | TC-020 | Upgrade | Select Upgrade option | Pricing details displayed | Price information not displayed | Observation |
 | TC-021 | Navigation | Verify breadcrumbs | Breadcrumb navigation works | Working correctly | Pass |
 | TC-022 | Session | Refresh page after login | Session remains active | Working correctly | Pass |
 | TC-023 | Session | Logout | User redirected to login page | Logout successful | Pass |
 | TC-024 | UX | Evaluate overall user experience | Smooth and responsive interaction | Minor lag observed during navigation and interactions | Observation |
 | TC-025 | General | Verify overall application stability | Stable application behavior | Stable with minor non-reproducible observations | Pass |
-## Observation
 
-During exploratory testing, the Leave module remained in a loading state on one occasion. 
+## Observations
 
-Refreshing the page resolved the issue, and it could not be reproduced consistently during subsequent testing. 
+During the testing cycle, a few application behaviors requiring further investigation were identified. Detailed information, reproduction steps, and supporting evidence have been documented separately in the corresponding bug reports.
 
-Based on this behavior, the observation has not been classified as a confirmed software defect.
+- Employee profile pictures did not load correctly in the **Directory** module. *(Refer: BUG-001)*
+- The **Upgrade** section did not display pricing information after selection. *(Refer: BUG-002)*
+- Minor delays were observed while interacting with certain Call-to-Action (CTA) elements. *(Refer: BUG-003)*
+- Occasional inconsistencies were observed while entering text in input fields, where characters were unexpectedly removed. *(Refer: BUG-004)*
 
 ## Conclusion
 
-The manual testing process covered the core functionalities of the OrangeHRM web application, including authentication, navigation, administrative features, employee management, and leave management. 
+The manual testing process successfully covered the core functionalities of the OrangeHRM web application, including authentication, navigation, employee management, directory features, and administrative operations. 
 
-Most test cases produced the expected results, indicating that the application's primary functionality is stable.
+The majority of the executed test cases produced the expected results, indicating that the application's primary functionality is stable.
 
-During exploratory testing, a few observations related to user experience and application behavior were identified, including an intermittent loading issue in the Leave module, the absence of pricing information in the Upgrade section, minor interface lag, and occasional inconsistencies while entering text. 
+During the testing cycle, a small number of functional and user experience observations were identified. These findings have been documented separately as individual bug reports with detailed reproduction steps, supporting evidence, and recommendations for further investigation.
 
-These observations require further verification to determine whether they represent reproducible software defects or environment-specific behavior.
-
-Overall, the testing cycle provided a comprehensive assessment of the application's functionality and served as a foundation for preparing the test summary and tool-based quality assessment reports.
+Overall, the testing exercise provided a comprehensive evaluation of the application's functionality and demonstrated the importance of structured test execution, accurate documentation, and systematic defect reporting as part of the Software Testing Life Cycle (STLC).
