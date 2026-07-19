@@ -14,7 +14,7 @@ The following bug reports are included in this directory:
 
 - [**BUG-001:**](BUG-001.md) Employee Profile Picture Not Displayed in Directory Module
 - [**BUG-002:**](BUG-002.md) Upgrade Section Does Not Display Pricing Information
-- **BUG-003:** Call-to-Action (CTA) Response Delay
+- [**BUG-003:**](BUG-003.md) 504 Gateway Timeout Error on Reset Password Request
 - **BUG-004:** Characters Occasionally Removed While Entering Text in Input Fields
 
 ## Summary
