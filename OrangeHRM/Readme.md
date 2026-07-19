@@ -41,10 +41,7 @@ The testing activities in this project include the following modules:
 - [Manual Test Cases](Test-Cases.md)
 - [Test Summary](Test-Summary.md)
 - [Bug Reports](OrangeHRM-Reports.md)
-- [Performance Assessment Reports](Google-PageSpeed-Insights.md)
-- Accessibility Assessment Reports
-- Security Assessment Reports
-
+- [Test Reports](OrangeHRM-Reports.md)
 
 ## Testing Techniques
 
