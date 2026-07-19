@@ -42,5 +42,5 @@ More tools will be added as I continue learning automation and advanced QA techn
 
 ## Websites Tested
 
-1 [SauceDemo](SauceDemo)
-2 [OrangeHRM](OrangeHRM)
+1. [SauceDemo](SauceDemo)
+2. [OrangeHRM](OrangeHRM)
