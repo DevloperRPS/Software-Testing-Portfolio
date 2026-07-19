@@ -40,3 +40,7 @@ More tools will be added as I continue learning automation and advanced QA techn
 - WAVE Accessibility
 - Security Headers
 
+## Websites Tested
+
+1 [SauceDemo](SauceDemo)
+2 [OrangeHRM](OrangeHRM)
