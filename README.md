@@ -1,4 +1,13 @@
+
 Welcome to My Software Testing Portfolio.
+
+
+## Websites Tested
+
+1. [SauceDemo](SauceDemo)
+2. [OrangeHRM](OrangeHRM)
+3. [VoiceToNotes](VoiceToNotes-AI)
+
 
 This Repository showcases my practical experience in Manual Software Testing projects, Test cases, Bug reports, API Testing, Real-World Website Testing and QA Documentation.
 
@@ -39,9 +48,3 @@ More tools will be added as I continue learning automation and advanced QA techn
 - Google PageSpeed Insights
 - WAVE Accessibility
 - Security Headers
-
-## Websites Tested
-
-1. [SauceDemo](SauceDemo)
-2. [OrangeHRM](OrangeHRM)
-3. [VoiceToNotes](VoiceToNotes-AI)
